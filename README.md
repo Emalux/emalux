@@ -6,14 +6,14 @@ BR:
 import Dev from 'Emalux';
 
 class Sobre extends Dev {
-  name = 'Emanuel';
+  nome = 'Emanuel';
   area = 'Ainda na escola';
   local = 'Brasil';
 }
 
 class Skills extends Dev {
-  langs  = ['Python', 'html', 'css'];
-  pythonlibs  = ['Disnake', 'discord.py'];
+  linguas  = ['Python', 'html', 'css'];
+  pythonLibs  = ['Disnake', 'discord.py'];
 }
 
 class Conhecimento extends Dev {
