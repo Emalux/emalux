@@ -1,48 +1,22 @@
-<h1 align="center">Bem-Vindo ao meu perfil!</h1>
+# Olá, eu sou o Emanuel 👋
 
-BR:
+Estudante do Brasil 🇧🇷 que está aprendendo a programar. Gosto de fazer bots para Discord com Python.
 
-```js
-import Dev from 'Emalux';
+*Hi, I'm Emanuel, a student from Brazil learning to code. I like making Discord bots with Python.*
 
-class Sobre extends Dev {
-  nome = 'Emanuel';
-  area = 'Ainda na escola';
-  local = 'Brasil';
-}
+## 🛠️ Skills
 
-class Skills extends Dev {
-  linguas  = ['Python', 'html', 'css'];
-  pythonLibs  = ['Disnake', 'discord.py'];
-}
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-class Conhecimento extends Dev {
-  Python = ['35%']
-  html = ['13%']
-  css = ['3%']
-}
+Bibliotecas / Libraries: `discord.py`, `disnake`
 
-```
-EN:
+## 🌱 Aprendendo / Learning
 
-```js
-import Dev from 'Emalux';
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-class About extends Dev {
-  name = 'Emanuel';
-  area = 'Stil in School';
-  local = 'Brazil';
-}
+## 🚀 Projetos / Projects
 
-class Skills extends Dev {
-  langs  = ['Python', 'html', 'css'];
-  pythonlibs  = ['Disnake', 'discord.py'];
-}
-
-class Skillknowledge extends Dev {
-  Python = ['35%']
-  html = ['13%']
-  css = ['3%']
-}
-
-```
+- [checkpubipsh](https://github.com/Emalux/checkpubipsh): comando shell para ver o IP / shell command to check your IP
